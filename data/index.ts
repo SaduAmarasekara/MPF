@@ -90,7 +90,7 @@ export const projects = [
     id: 3,
     title: "Golden-pet-care",
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
+    img: "/Petcare.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "https://github.com/SaduAmarasekara/golden-pet-care",
   },
@@ -131,6 +131,27 @@ export const Certificates = [
     description: "Validates ability to design, develop, and manage robust, secure, scalable, and dynamic solutions on Google Cloud Platform.",
     image: "/postman.png"
   },
+    {
+    name: "Google Cloud Professional",
+    description: "Validates ability to design, develop, and manage robust, secure, scalable, and dynamic solutions on Google Cloud Platform.",
+    image: "/IHRA.png"
+  },
+    {
+    name: "Google Cloud Professional",
+    description: "Validates ability to design, develop, and manage robust, secure, scalable, and dynamic solutions on Google Cloud Platform.",
+    image: "/java.png"
+  },
+    {
+    name: "Google Cloud Professional",
+    description: "Validates ability to design, develop, and manage robust, secure, scalable, and dynamic solutions on Google Cloud Platform.",
+    image: "/open.png"
+  },
+      {
+    name: "Google Cloud Professional",
+    description: "Validates ability to design, develop, and manage robust, secure, scalable, and dynamic solutions on Google Cloud Platform.",
+    image: "/frontend.png"
+  },
+  
   
  
  
